@@ -2,13 +2,13 @@
 
 # QR Kutex
 
-Este pequeño codigo genera un **QR decorado al estilo Kutex**, con fondo azul oscuro y estrellas amarillas.
+Este pequeño codigo genera un **QR decorado al estilo Kutex**, con fondo azul oscuro y estrellas amarillas (orden aleatorio).
 
 ---
 
 ## Descripción
 
-- **URL del QR:** https://guns.lol/kutex  
+- **URL del QR:** https://guns.lol/kutex (cambiala para que te lleve donde quieraaaas)
 - **Estilo del fondo:** Azul nocturno con estrellas de diferentes tamaños (pequeñas, medianas y grandes)  
 - **Diseño:** Inspirado en la estética de Kutex, diseñado por Kutex  
 - **Formato de salida:** PNG
