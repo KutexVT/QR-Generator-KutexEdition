@@ -2,7 +2,7 @@
 
 # QR Kutex
 
-Este proyecto genera un **QR decorado al estilo Kutex**, con fondo azul oscuro y estrellas amarillas, para mantener la vibra tecnológica y espacial de nuestro VTuber.
+Este pequeño codigo genera un **QR decorado al estilo Kutex**, con fondo azul oscuro y estrellas amarillas.
 
 ---
 
