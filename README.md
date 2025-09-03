@@ -5,6 +5,8 @@
 Este pequeño codigo genera un **QR decorado al estilo Kutex**, con fondo azul oscuro y estrellas amarillas (orden aleatorio).
 
 ---
+qr_kutex.png
+---
 
 ## Descripción
 
